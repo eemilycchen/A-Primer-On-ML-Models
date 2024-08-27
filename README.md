@@ -1,1 +1,1 @@
-Building models using various open source resources.
+A primer on building (machine learning) models from scratch using open sources.
