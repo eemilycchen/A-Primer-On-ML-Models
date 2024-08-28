@@ -1,1 +1,1 @@
-A primer on building (machine learning) models from scratch using open sources.
+A primer on applications of (machine learning) models using open sources.
